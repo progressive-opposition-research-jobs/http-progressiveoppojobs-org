@@ -1,0 +1,30 @@
+# main links
+main:
+  # - title: "Categories"
+  #  url: /categories/
+  # - title: "About"
+  #  url: /about/
+  # - title: "Resources"
+  #   url: /resources/
+  - title: "Sort by Tag"
+    url: /tags/
+  - title: "Submit"
+    url: /submit/
+  - title: "Subscribe"
+    url: /subscribe/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+docs:
+  - title: "About"
+    url: /about/
+  - title: "Resources"
+    url: /resources/
+  - title: "Subscribe"
+    url: /subscribe/
+  - title: "Submit"
+    url: /submit/
