@@ -78,7 +78,7 @@ social:
 analytics:
   provider: "google-universal"
   google:
-    tracking_id: "UA-46478165-4"
+    tracking_id: ""
 
 
 # Site Author
@@ -257,4 +257,3 @@ defaults:
       header:
         overlay_image: /assets/img/computer.jpg
         show_overlay_excerpt: false
-
