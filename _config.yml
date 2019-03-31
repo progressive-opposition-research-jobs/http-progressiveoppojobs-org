@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Progressive Data Jobs"
+title                    : "Progressive Oppo Jobs"
 title_separator          : "-"
-name                     : "Progressive Data Jobs"
-description              : "Work in data and analytics for progressive organizations!"
+name                     : "Progressive Oppo Jobs"
+description              : "Work in opposition research for progressive organizations!"
 url                      : "https://www.progressivedatajobs.org"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "anniejw6/progressivedatajobs"
