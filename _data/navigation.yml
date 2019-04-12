@@ -8,7 +8,7 @@ main:
   #   url: /resources/
   - title: "Sort by Tag"
     url: /tags/
-  - title: "Submit"
+  - title: "Post a Job"
     url: /submit/
   - title: "Subscribe"
     url: /subscribe/
@@ -20,11 +20,11 @@ main:
   #   url: /sitemap/
 
 docs:
+  - title: "Post a Job"
+    url: /submit/
   - title: "About"
     url: /about/
   - title: "Resources"
     url: /resources/
   - title: "Subscribe"
     url: /subscribe/
-  - title: "Submit"
-    url: /submit/

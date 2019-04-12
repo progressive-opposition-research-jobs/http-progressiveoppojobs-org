@@ -192,6 +192,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-admin
+
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -200,6 +202,15 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+
+# jekyll admin options
+
+jekyll_admin:
+  hidden_links:
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
 
 
 # Archives

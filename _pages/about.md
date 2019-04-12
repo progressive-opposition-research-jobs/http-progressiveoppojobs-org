@@ -12,7 +12,7 @@ This site is maintained by [Lena Tom](mailto:lena@progressivedatajobs.org) and [
 
 If you would like add a job, please use our [submission form](/submit/).
 
-## *What is a "progressive data" job?*
+## *What is a "progressive oppo" job?*
 
 Loosely defined as a job where the majority of the role, department or organization/company is focused on data or analytics work in the progressive space. This may mean things such as managing databases, client or partner relationships, management, statistical analysis or certain tech roles, such as software engineers. 
 
